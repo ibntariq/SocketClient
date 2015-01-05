@@ -1,0 +1,8 @@
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\bin\Debug\socketClient.exe.config
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\obj\Debug\socketClient.Form1.resources
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\obj\Debug\socketClient.Properties.Resources.resources
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\obj\Debug\socketClient.csproj.GenerateResource.Cache
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\bin\Debug\socketClient.exe
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\bin\Debug\socketClient.pdb
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\obj\Debug\socketClient.exe
+c:\users\muneeb\documents\visual studio 2013\Projects\socketClient\socketClient\obj\Debug\socketClient.pdb
